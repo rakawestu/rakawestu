@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Gojek - Merchant Platform as a software engineer. 
+
+🌱 I’m currently learning to be a full stack software engineer. (Previously I am specialized on Mobile Android app development).
+
